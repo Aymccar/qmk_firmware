@@ -16,7 +16,8 @@
     },
     "features": {
         "bootmagic": false,
-        "ws2812": true
+        "ws2812": true,
+        "extrakey": true
     },
     "diode_direction": "COL2ROW",
     "layouts": {
